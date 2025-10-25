@@ -2,3 +2,6 @@ streamlit
 pandas
 requests
 plotly
+numpy
+python-dateutil
+pytz
